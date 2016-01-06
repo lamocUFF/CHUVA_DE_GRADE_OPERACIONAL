@@ -1,0 +1,4 @@
+
+baixar os dados para acelerar o proceso em: 
+
+site='ftp://ftp.cpc.ncep.noaa.gov/precip/CPC_UNI_PRCP/GAUGE_GLB/RT/';
